@@ -25,8 +25,8 @@ Instructions for using the software:
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
 * Visual Studio Code
-*
-*
+* Python 3.14.2
+* django 6.0.1
 
 ## Useful Websites to Learn More
 
@@ -40,6 +40,6 @@ I found these websites useful in developing this software:
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
+* [ ] To add 2 or 3 pages
 * [ ] To add the display of photos
 * [ ] To search for a photo through a user input
-* [ ]
