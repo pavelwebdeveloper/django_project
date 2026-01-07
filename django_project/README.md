@@ -10,7 +10,7 @@ Steps to build and/or run the software:
 
 1. In order to run the software check if you have Python installed by running "python --version"
 2. If you have Python installed then run "python -m pip install Django"
-3. Run "git clone https://github.com/pavelwebdeveloper/wdd131.git" locally on your computer in CMD
+3. Run "git clone https://github.com/pavelwebdeveloper/django_project.git" locally on your computer in CMD
 4. Start server by running "python manage.py runserver"
 5. In your browser in the address bar type "http://127.0.0.1:8000/"
 
