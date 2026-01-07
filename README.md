@@ -17,8 +17,7 @@ Steps to build and/or run the software:
 Instructions for using the software:
 
 1. Look at the browser window
-2. You should see the text "Hello world from my_photo_app coded in Python!".
-3.
+2. You should see the text "Hello world from my_photo_app coded in Python!"
 
 ## Development Environment
 
